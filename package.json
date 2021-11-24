@@ -1,5 +1,5 @@
 {
-  "name": "Spacetory",
+  "name": "spacetory",
   "version": "1.0.0",
   "description": "Web app to store a history of the user's twitter spaces",
   "main": "index.js",
