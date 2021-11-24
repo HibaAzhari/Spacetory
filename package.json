@@ -1,0 +1,30 @@
+{
+  "name": "Spacetory",
+  "version": "1.0.0",
+  "description": "Web app to store a history of the user's twitter spaces",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index",
+    "dev": "nodemon server/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HibaAzhari/Spacetory.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HibaAzhari/Spacetory/issues"
+  },
+  "homepage": "https://github.com/HibaAzhari/Spacetory#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "needle": "^3.0.0",
+    "socket.io": "^4.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
